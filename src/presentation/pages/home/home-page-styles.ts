@@ -11,7 +11,12 @@ export const Container = styled.div`
 `;
 
 export const Header = styled.div`
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    height: 250px;
+
 `;
 
 export const Body = styled.div`
